@@ -1,0 +1,14 @@
+# 模型与索引（体积大，不入库）
+models/
+db/
+db2/
+data/kb_supplement/raw/_dup/
+data/kb_supplement/raw/_reject/
+data/kb_supplement/*.pdf
+__pycache__/
+*.pyc
+.venv/
+.env
+runs/
+results_eval.json
+*.tmp
